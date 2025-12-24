@@ -17,9 +17,8 @@ Models were compared using MAE and MAPE on a hold-out test set.
 ## Results
 Simple Exponential Smoothing (SES) achieved the lowest forecast error and was selected as the final model.
 
-## Tools
-- Python
-- pandas
-- numpy
-- matplotlib
-- statsmodels
+## How to Run
+1. Install dependencies:
+2. Run the script:
+
+ Note: Download the dataset from Kaggle and place `retail_sales_dataset.csv` next to the script (or update the CSV path in the config section).
