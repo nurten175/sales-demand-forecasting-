@@ -21,3 +21,11 @@ Simple Exponential Smoothing (SES) achieved the lowest forecast error and was se
 1. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib statsmodels
+   ```
+
+2. Run the script:
+   ```bash
+   python forecast_compare.py
+   ```
+
+> Note: Download the dataset from Kaggle and place `retail_sales_dataset.csv` next to the script (or update the CSV path in the config section).
